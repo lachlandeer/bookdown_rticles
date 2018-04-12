@@ -12,6 +12,7 @@ Different branches contain working examples for alternative `rtcile` templates.
 Currently I have implemented this for:
 
 * aea_article
+* elsevier_article
 
 ## Installing relevant packages:
 
