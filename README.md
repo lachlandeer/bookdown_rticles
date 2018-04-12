@@ -14,6 +14,8 @@ Currently I have implemented this for:
 * aea_article
 * elsevier_article
 
+In the `master` branch the only files kept are the `DESCRIPTION`, `Snakefile` and `R` scripts in case you want to modify/enhance them and merge them back into each branch
+
 
 ## Installing relevant packages:
 
