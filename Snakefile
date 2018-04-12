@@ -39,7 +39,7 @@ rule pdf:
         yaml_files = YAML_FILES,
         biblo      = BIB_FILES,
         tex_style  = TEX_FILES,
-        cls_file   = CLS_FILES,
+        #cls_file   = CLS_FILES,
         runner     = "build_pdfbook.R"
     output:
         "_book/rtciles-demo.pdf"
