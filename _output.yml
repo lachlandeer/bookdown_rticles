@@ -11,7 +11,7 @@ bookdown::gitbook:
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
-  base_format: rticles::elsevier_article
+  base_format: rticles::asa_article
   latex_engine: xelatex
   keep_tex: yes
 bookdown::epub_book: default

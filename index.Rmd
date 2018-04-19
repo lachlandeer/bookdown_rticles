@@ -1,18 +1,21 @@
 ---
-title: Short Paper
-author:
-  - name: Alice Anonymous
-    email: alice@example.com
-    affiliation: Some Institute of Technology
-    footnote: Corresponding Author
-  - name: Bob Security
-    email: bob@example.com
-    affiliation: Another University
-address:
-  - code: Some Institute of Technology
-    address: Department, Street, City, State, Zip
-  - code: Another University
-    address: Department, Street, City, State, Zip
+title: Title here
+
+# to produce blinded version set to 1
+blinded: 0
+
+authors:
+- name: Author 1
+  thanks: The authors gratefully acknowledge ...
+  affiliation: Department of YYY, University of XXX
+
+- name: Author 2
+  affiliation: Department of ZZZ, University of WWW
+
+keywords:
+- 3 to 6 keywords
+- that do not appear in the title
+
 abstract: |
   This is the abstract.
 
